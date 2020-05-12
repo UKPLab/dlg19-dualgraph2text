@@ -1,4 +1,4 @@
 # dlg19-dualgraph2text. 
 
 
-TODO
+Please, refer to https://github.com/UKPLab/emnlp2019-dualgraph
